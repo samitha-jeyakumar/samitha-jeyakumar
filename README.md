@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @samitha-jeyakumar
 - 👀 I’m interested in web-development
 - 🌱 I’m currently learning full stack web development 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on email:sami29keerthi23@gmail.com
 
 <!---
